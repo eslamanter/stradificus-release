@@ -30,6 +30,9 @@ This application uses Matplotlib.
 - © 2012–present Matplotlib Development Team. All rights reserved.  
 - License details: https://matplotlib.org/stable/project/license.html
 
+**Google Fonts (SIL Open Font License)**  
+This application uses Material Symbols icons from Google Fonts under the SIL Open Font License.  
+
 ---
 
 For inquiries or permissions beyond this license, contact: eslam.anter@outlook.com
